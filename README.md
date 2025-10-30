@@ -26,6 +26,6 @@ I'm a **self taught full stack web developer** focused on developing **high perf
 
 ---
 
-### 💬 Connect
+### 🤝 Connect
 I'm always open to collaborating on exciting ideas or discussing web development concepts.  
-Feel free to reach out through my **GitHub Issues** or **Discussions**.
+You can learn more about me and reach out through my **[portfolio website](https://stephenasembo.com)**.
